@@ -54,8 +54,8 @@ table {
 	width: 100%;
 	table-layout: auto;
 }
-th {
-  height: 50px;
+table th {
+  height: 70px;
   font-size: medium;
   font-weight: bold;
 }
