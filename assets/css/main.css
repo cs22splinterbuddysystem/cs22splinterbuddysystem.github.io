@@ -57,6 +57,9 @@ table {
 table th {
   	font-size: medium;
   	font-weight: bold;
+	border-collapse: collapse;
+	border-spacing: 0;
+	border: 1px solid;
 }
 table td.ex{font-weight: bold;}
 
