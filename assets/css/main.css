@@ -58,7 +58,7 @@ table th {
   	font-size: medium;
   	font-weight: bold;
 	border-collapse: collapse;
-	text-align: right;
+	text-align: center;
 }
 table td.ex{font-weight: bold;}
 
