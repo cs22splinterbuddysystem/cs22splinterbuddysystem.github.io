@@ -50,8 +50,14 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 	font-size: small;
+	border: 1px solid;
+	width: 100%;
+	table-layout: auto;
 }
-table.bold{font-weight: bold;}
+th {
+  height: 50px;
+}
+table td.ex{font-weight: bold;}
 
 body {
 	-webkit-text-size-adjust: none;
