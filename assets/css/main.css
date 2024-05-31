@@ -50,6 +50,7 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+table.bold{font-weight: bold;}
 
 body {
 	-webkit-text-size-adjust: none;
