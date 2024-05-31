@@ -58,7 +58,7 @@ table th {
   	font-size: medium;
   	font-weight: bold;
 	border-spacing: 0;
-	border: 1px solid gray;
+	border: 1px solid;
 	text-align: center;
 }
 table td.ex{font-weight: bold;}
