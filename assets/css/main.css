@@ -55,8 +55,7 @@ table {
 	table-layout: auto;
 }
 table th {
-  height: 50px;
-  font-size: large;
+  font-size: medium;
   font-weight: bold;
   border: 1px solid
 }
