@@ -55,9 +55,10 @@ table {
 	table-layout: auto;
 }
 table th {
-  height: 70px;
-  font-size: medium;
+  height: 50px;
+  font-size: large;
   font-weight: bold;
+  border: 1px solid
 }
 table td.ex{font-weight: bold;}
 
